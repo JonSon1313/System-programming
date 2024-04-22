@@ -1,0 +1,7 @@
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\bin\Debug\Examen_system_.exe.config
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\bin\Debug\Examen_system_.exe
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\bin\Debug\Examen_system_.pdb
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\obj\Debug\Examen_system_.csproj.AssemblyReference.cache
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\obj\Debug\Examen_system_.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\obj\Debug\Examen_system_.exe
+C:\Users\38067\source\repos\Examen_system_\Examen_system_\obj\Debug\Examen_system_.pdb
