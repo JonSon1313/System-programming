@@ -1,5 +1,5 @@
 # System-programming
-                               System programming. Examination
+                          System programming. Examination
  The condition of the task
 Implement a console application that organizes the interaction between threads according to the figure.
 A class with data is given
@@ -26,5 +26,5 @@ All threads are given parameters:
 At the beginning of the program, the user enters the values n, min, max.
 After entering the data, the program implements the execution of actions in threads, as shown in the figure below. After each change in the program, you need to display the array on the screen (thread # 5).
 
-                                             Algorithm (in Ukrainian language)
+                          Algorithm (in Ukrainian language)
   ![image](https://github.com/JonSon1313/System-programming/assets/92844652/2bf7dd32-4d25-413a-8bdd-0dd68fd96108)
